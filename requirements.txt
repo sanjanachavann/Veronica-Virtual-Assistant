@@ -1,0 +1,11 @@
+requests
+pyttsx3
+SpeechRecognition
+wikipedia
+pywhatkit
+pyautogui
+playsound
+gTTS
+mysql-connector-python
+screen-brightness-control
+python-dotenv
